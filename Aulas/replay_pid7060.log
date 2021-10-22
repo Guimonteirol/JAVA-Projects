@@ -1,0 +1,17 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 298 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 27468 0 -1
+ciMethod java/lang/Object hashCode ()I 2049 1 256 0 -1
+ciMethod java/lang/String <init> ([CII)V 2089 1 5390 0 -1
+ciMethod java/lang/String length ()I 4097 1 20045 0 -1
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 2049 11273 2349 0 -1
+ciMethod java/lang/String startsWith (Ljava/lang/String;I)Z 2049 4705 3643 0 -1
+ciMethod java/lang/String startsWith (Ljava/lang/String;)Z 2177 1 1406 0 -1
+ciMethod java/lang/String hashCode ()I 2801 32769 1897 0 -1
+ciMethod java/lang/String indexOf (I)I 2065 1 2294 0 -1
+ciMethod java/lang/String indexOf (II)I 985 24577 806 0 -1
+ciMethod java/lang/String substring (I)Ljava/lang/String; 3073 1 786 0 -1
+ciMethod java/lang/String substring (II)Ljava/lang/String; 2097 1 2374 0 -1
+ciMethod 
